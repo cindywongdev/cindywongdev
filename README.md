@@ -33,7 +33,4 @@ My name is Cindy Wong and I'm currently a software engineering fellow at General
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cinduhrz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
