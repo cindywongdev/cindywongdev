@@ -28,6 +28,6 @@ My name is Cindy Wong and I'm a fullstack software engineer. I started my coding
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cindywongdev&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cindywongdev&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cindywongdev&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cindywongdev&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
