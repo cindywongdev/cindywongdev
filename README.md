@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Cindy Wong and I'm a fullstack software engineer. I started my coding journey in my junior year of college with some intro classes and was hooked. I'm also a recent graduate of the Software Engineering Immersive at General Assembly (April 2023). I am fascinated by how code, a finite number of characters and numbers, allows for so much possibility.
 
 
-## 🌐 Socials:
+### 🌐 Find me here:
 #### Email: 📧 cindywongdev@gmail.com
 #### LinkedIn: [linkedin.com/in/cindywongdev](https://www.linkedin.com/in/cindywongdev/)
 
