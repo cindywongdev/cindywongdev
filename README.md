@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I'm currently working on leveling up my frontend skills by practicing React and some CSS frameworks such as Bootstrap and styled-components.  -->
 
-My name is Cindy Wong and I'm a fullstack software engineer. I started my coding journey in my junior year of college with some intro classes and was hooked. I'm also a recent graduate of the Software Engineering Immersive at General Assembly (April 2023). I am fascinated by how code, a finite number of characters and numbers, allows for so much possibility.
+I started my coding journey in my junior year of college with some intro classes and was hooked. I'm also a recent graduate of the Software Engineering Immersive at General Assembly (April 2023). I am fascinated by how code, a finite number of characters and numbers, allows for so much possibility.
 
 
 ### 🌐 Find me here:
